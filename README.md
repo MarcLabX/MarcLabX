@@ -4,7 +4,7 @@
 <ul>
   <li>📚 Atualmente estudo Web Design e Programação na Alura e Udemy</li>
   <li>🚀 Pretendo fazer faculdade de Engenharia de Software e me tornar um programador Full-Stack</li>
-  <li>🎓 Me formei no Instiruto Federal de Rondônia (IFRO) cursando Tecnologia da Informação</li>
+  <li>🎓 Me formei no Instituto Federal de Rondônia (IFRO) cursando Tecnologia da Informação</li>
 </ul>
 
 ##
