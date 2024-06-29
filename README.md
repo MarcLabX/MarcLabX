@@ -1,4 +1,4 @@
-<h1>Olá pequeno gafanhoto! Sou o MarcLabX, futuro Full-Stack! 🦗</h1>
+<h1>Olá pequeno gafanhoto! Sou o MarcLabX 🦗</h1>
 
 <h2>About Me</h2>
 <ul>
