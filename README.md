@@ -5,13 +5,13 @@
   <div align="center">
     <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcLabX&layout=compact&hide_border=true&title_color=000000&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Marc Top Languages" />
 
-    <ul>
+  </div>
+
+   <ul>
     <li>🎓 I graduated from high school at the Federal Institute of Rondonia (IFRO) studying Information Technology (T.I)</li>
     <li>🚀 I plan to go to Software Engineering college</li>
     <li>☑️ I intend to become a full-stack programmer with a focus on the back-end</li>
-    </ul>
-
-  </div>
+  </ul>
   
   <br>
   
