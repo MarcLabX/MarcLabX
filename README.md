@@ -4,6 +4,13 @@
   [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=000000&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+MarcosLabX;I'm+20+years+old;I+from+Brasil,+RO;I+study+front-end+development;Be+Welcome!+:%29)](https://git.io/typing-svg)
   <div align="center">
     <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcLabX&layout=compact&hide_border=true&title_color=000000&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Marc Top Languages" />
+
+    <ul>
+    <li>🎓 I graduated from high school at the Federal Institute of Rondonia (IFRO) studying Information Technology (T.I)</li>
+    <li>🚀 I plan to go to Software Engineering college</li>
+    <li>☑️ I intend to become a full-stack programmer with a focus on the back-end</li>
+    </ul>
+
   </div>
   
   <br>
