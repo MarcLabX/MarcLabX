@@ -9,7 +9,7 @@
   <div align=left>
    <ul>
     <li>🎓 I graduated from high school at the Federal Institute of Rondonia (IFRO) studying Information Technology (T.I)</li>
-    <li>🚀 I plan to go to XCompputer Science college</li>
+    <li>🚀 I plan to go to Computer Science college</li>
     <li>☑️ I intend to become a full-stack programmer with a focus on the back-end</li>
   </ul>
   </div>
