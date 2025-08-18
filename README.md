@@ -28,8 +28,8 @@
   ![Figma](https://img.shields.io/badge/-Figma-0D1117?style=for-the-badge&logo=Figma&labelColor=0D1117)&nbsp;
   ![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=Git&labelColor=0D1117)&nbsp;
   ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=GitHub&labelColor=0D1117)&nbsp;
-  ![Python](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/1200px-Python.svg.png)&nbsp;
-  ![Next.Js](https://www.drupal.org/files/project-images/nextjs-icon-dark-background.png)&nbsp;
+  Python&nbsp;
+  Next.Js&nbsp;
   
   <br>
   
