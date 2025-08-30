@@ -33,16 +33,11 @@
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-0D1117?style=for-the-badge&logo=TailwindCSS&labelColor=0D1117)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-0D1117?style=for-the-badge&logo=Bootstrap&labelColor=0D1117)&nbsp;
 
-##### 🎨 UX / UI / Design  
-![Figma](https://img.shields.io/badge/-Figma-0D1117?style=for-the-badge&logo=Figma&labelColor=0D1117)&nbsp;
-![UI Design](https://img.shields.io/badge/-UI%20Design-0D1117?style=for-the-badge&logo=figma&labelColor=0D1117)&nbsp;
-![UX Design](https://img.shields.io/badge/-UX%20Design-0D1117?style=for-the-badge&logo=figma&labelColor=0D1117)&nbsp;
-![Design Thinking](https://img.shields.io/badge/-Design%20Thinking-0D1117?style=for-the-badge&logo=figma&labelColor=0D1117)&nbsp;
-
 ##### ⚙️ Tools  
 ![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=Git&labelColor=0D1117)&nbsp;
 ![GitLab](https://img.shields.io/badge/-GitLab-0D1117?style=for-the-badge&logo=GitLab&labelColor=0D1117)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=GitHub&labelColor=0D1117)&nbsp;
+![Figma](https://img.shields.io/badge/-Figma-0D1117?style=for-the-badge&logo=Figma&labelColor=0D1117)&nbsp;
 
   
   <br>
