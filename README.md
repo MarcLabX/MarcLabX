@@ -42,10 +42,12 @@
 ![UX Design](https://img.shields.io/badge/-UX%20Design-0D1117?style=for-the-badge&logo=figma&labelColor=0D1117)&nbsp;
 ![Design Thinking](https://img.shields.io/badge/-Design%20Thinking-0D1117?style=for-the-badge&logo=figma&labelColor=0D1117)&nbsp;
 
-### ⚙️ Ferramentas  
+### ⚙️ Tools  
 ![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=Git&labelColor=0D1117)&nbsp;
 ![GitLab](https://img.shields.io/badge/-GitLab-0D1117?style=for-the-badge&logo=GitLab&labelColor=0D1117)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=GitHub&labelColor=0D1117)&nbsp;
+![VS Code](https://img.shields.io/badge/-VS%20Code-0D1117?style=for-the-badge&logo=visualstudiocode&labelColor=0D1117)&nbsp;
+![PyCharm](https://img.shields.io/badge/-PyCharm-0D1117?style=for-the-badge&logo=PyCharm&labelColor=0D1117)&nbsp;
   
   <br>
   
