@@ -24,7 +24,6 @@
 ![Django](https://img.shields.io/badge/-Django-0D1117?style=for-the-badge&logo=Django&labelColor=0D1117)&nbsp;
 ![Flask](https://img.shields.io/badge/-Flask-0D1117?style=for-the-badge&logo=Flask&labelColor=0D1117)&nbsp;
 ![MongoDB](https://img.shields.io/badge/-MongoDB-0D1117?style=for-the-badge&logo=MongoDB&labelColor=0D1117)&nbsp;
-![Power BI](https://img.shields.io/badge/-Power%20BI-0D1117?style=for-the-badge&logo=powerbi&labelColor=0D1117)&nbsp;
 
 ##### 🎨 Front End  
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=JavaScript&labelColor=0D1117)&nbsp;
